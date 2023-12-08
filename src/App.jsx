@@ -10,7 +10,7 @@ import Newsletter from './components/Newsletter';
 import {Routes, Route} from 'react-router-dom';
 import FlightDashboard from './components/FlightDashboard';
 import SignIn from "./components/SignIn";
-import SignUp from "./components/SignuP";
+import SignUp from "./components/SignUp";
 
 
 function App() {
